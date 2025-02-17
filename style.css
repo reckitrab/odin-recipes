@@ -8,15 +8,34 @@
 
 h1 {
     font-size: 32px;
+    padding: 8px;
+    background-color: whitesmoke;
+    font-weight: 800;
 }
 
 .links {
     font-size: 24px;
     font-weight: 800;
+    
 }
 
 .ingredients {
     font-size: 12px;
     font-weight: 500;
 
+}
+
+img {
+    height: auto;
+    width: 640px;
+    padding: 8px;
+}
+
+button {
+    padding: 8px 16px;
+    text-align: center;
+    font-weight: 800;
+    background-color: gray;
+    padding: 8px 36px;
+    margin: 1px auto;
 }
